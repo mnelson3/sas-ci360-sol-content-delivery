@@ -2,7 +2,7 @@
 
 ## SAS 360 SOLUTIONS - Content Delivery Module
 
-> **Status: canonical.** This is the actively maintained client for the Digital Assets API.
+> **Status: archived.** This repository is a retained historical/archived reference client for the Digital Assets API and is no longer actively developed.
 
 This repository provides Python interfaces for SAS Customer Intelligence 360 Digital Assets and Content Delivery APIs.
 
@@ -28,8 +28,8 @@ The Content Delivery module enables programmatic management of digital assets, c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnelson3/sas-ci360-sol-content-delivery.git
-   cd sas-ci360-sol-content-delivery
+   git clone https://github.com/mnelson3/sas-ci360-sol-content-delivery-archived.git
+   cd sas-ci360-sol-content-delivery-archived
    ```
 
 2. Install dependencies:
